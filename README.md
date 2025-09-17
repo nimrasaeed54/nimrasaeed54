@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Saeed</h1>
 <h3 align="center">A Software Developer from Pakistan passionate about building modern, scalable, and responsive web applications.</h3>
 
+- 🔭 Experienced React Developer & Frontend Engineer passionate about crafting modern, scalable, and responsive web applications
 - 🔭 I’m currently working on **MERN stack projects** with **Tailwind CSS**, **Bootstrap**, and integrating **Firebase** for backend and authentication.  
 - 🌱 Continuously improving skills in **React.js, Node.js, Express, MongoDB**, and **UI/UX best practices**.  
 - 👨‍💻 Check out my portfolio: [nimrasaeed.vercel.app](https://portfolio-git-main-nimrasaeed54s-projects.vercel.app/)  
